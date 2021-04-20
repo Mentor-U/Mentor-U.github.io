@@ -18,8 +18,6 @@ I am a Computer Scientist with experience working on full-stack software develop
 - *LinkedIn:* [https://www.linkedin.com/in/kevin-tran-912727163/](https://www.linkedin.com/in/kevin-tran-912727163/)
 
 <br>
-________
-<br>
 
 # **Jonathan Warner**
 My name is Jon Warner and I am graduating with my bachelors in Computer Science. I am one of the developers of the MentorU application and am currently employed by Apple providing technical support for iOS devices. Throughout my degree I have directed most of my attention towards artificial intelligence and machine learning, and specifically the applications of these in natural language processing. I also enjoy working with computer systems and designing scalable algorithms to better utilize the available hardware. As a result of my studies I have become skilled in Python, C/C++, C#, and developed with many of their respective frameworks and libraries.  
@@ -27,8 +25,6 @@ My name is Jon Warner and I am graduating with my bachelors in Computer Science.
 - *Email:* jonathanstaynerwarner@gmail.com
 - *LinkedIn:* [https://www.linkedin.com/in/jonwarnerslc/](https://www.linkedin.com/in/jonwarnerslc/)
 
-<br>
-________
 <br>
 
 # **Ajay Bagali**
