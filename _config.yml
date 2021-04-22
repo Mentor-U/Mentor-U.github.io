@@ -34,7 +34,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Chat Bot
-    description                           : Find for new mentors that fit your needs with the AsisstU chat bot.
+    description                           : Find new mentors that best fit your needs with the AssistU chat bot.
     fontawesome_icon_name                 : robot
     
   - title                                 : Google Map API
