@@ -7,7 +7,7 @@ include_in_header: true
 # Tutorial
 
 ### Welcome to the tutorial for our application!
-
+<br>
 <div>
   <img src="../assets/signin.png" width="auto" height="auto">
   <br>
