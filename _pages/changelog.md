@@ -37,8 +37,6 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 
 <br>
 
-<br>
-
 # **Brayden Muir**
 Hello, I'm Brayden. I will graduate from the University of Utah in the Spring of 2021 with a BS of Computer Science, and this is our Senior Capstone Project. I was born here in Salt Lake City, and have been very interested in technology since a very young age. I gained interest in Virtual Reality after working with a Hololens for my first internship with Microsoft in 2019, developing an application for security. I was fortunate enough to be able to do a second internship with them through the pandemic, and worked with the Azure Confidential Compute team on blockchain technologies. I'm very excited to join Microsoft full time upon graduation!
 
