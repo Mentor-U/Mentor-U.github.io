@@ -29,5 +29,6 @@ include_in_header: true
 <div>
   <img src="../assets/marketplace.png" width="auto" height="auto">
   <br>
+  You can view recommended items from the marketplace on the home page. You can also access the marketplace via the flyout menu. You can browse the marketplace and use filters to make it easier to search. Clicking on the item will bring up more information about the item. Then you can chat with the seller to begin negotiating. 
   
 </div>
