@@ -15,7 +15,6 @@ include_in_header: true
   <hr class="solid">
 </div>
 
-<br>
 <div>
   <img src="../assets/findMentors.png" width="auto" height="auto">
   <br>
