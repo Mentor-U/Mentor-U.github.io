@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Developers
-The MentorU team worked together through the fall of 2020 to the spring of 2021 as seniors in the Computer Science program at the Uinversity of Utah.
+The MentorU team worked together through the fall of 2020 to the spring of 2021 as seniors in the Computer Science program at the University of Utah.
 
 <br>
 
